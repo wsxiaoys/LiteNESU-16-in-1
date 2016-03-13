@@ -11,7 +11,7 @@ LiteNES source code: https://github.com/NJUOS/LiteNES
 This is ONLY for 5.5.x firmware and there will NOT be any other firmware version made.  If you have lower than 5.5.x, then go and enjoy your kernel access.  If you really want me to make it for your version, then tell people with kernel or IOSU access in 5.5.x to release, since I can not make the game compatible with the homebrew channel at the moment, since I have no way to test.  Or just wait until I get kernel or IOSU access on my own.
 
 Setup:
-Put the included boot.elf on your webserver that can launch elf files or find a site that has this hosted.
+Put the ROM files named correctly in the data folder and compile the boot.elf file.  Place it on your webserver that has an elf loader or find the elf file hosted somewhere.
 
 Instructions:
 Launch games or select EXIT with the B Button on the main menu.  When in game, D-PAD for movement, A and B button like on an NES.  PLUS button is START and MINUS button is SELECT.  Pressing the HOME button while in game will return you to the selection menu.
